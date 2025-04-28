@@ -2,8 +2,7 @@
 ゲーム制作技術総合実習 個人ワーク
 （Circle, Triangle, Squareを使用した2Dゲーム）
 
-# ここにゲームのタイトルを記述する
-KatachiCrash
+# KatachiCrash
 
 ## ゲームの内容
 ここにゲームの内容説明を記述する
